@@ -1,0 +1,4 @@
+name: GameJamPlugin
+version: ${project.version}
+main: club.devcord.gamejam.JamPlugin
+api-version: 1.18
